@@ -150,16 +150,16 @@ main {
 }
 
 .load-more-button {
-  display: inline-block;
-  text-decoration: underline;
+  display: block;
   color: black;
   padding: 0.8rem 1.5rem;
   font-weight: 600;
   font-size: 0.9rem;
-  border-radius: 5px;
   text-align: center;
   margin: 0 auto;
+  margin-bottom: 2rem;
   cursor: pointer;
+  width: fit-content;
 }
 
 /* <---FOOTER ----> */
