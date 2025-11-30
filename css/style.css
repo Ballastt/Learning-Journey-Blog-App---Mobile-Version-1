@@ -184,3 +184,19 @@ footer p {
   color: #d7d7d7;
   margin: 0;
 }
+
+@media (min-width: 500px) and (max-width: 899px) {
+  /* main {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    padding: 2rem 1.5rem;
+  } */
+}
+
+@media (min-width: 900px) {
+ /*  main {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding: 2rem 2rem;
+  } */
+}
